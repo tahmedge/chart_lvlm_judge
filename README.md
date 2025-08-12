@@ -21,8 +21,6 @@ If you use the data or the code, please cite:
       Joty, Shafiq  and
       Hoque, Enamul  and
       Huang, Jimmy",
-    editor = "Rehm, Georg  and
-      Li, Yunyao",
     booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 6: Industry Track)",
     month = jul,
     year = "2025",
