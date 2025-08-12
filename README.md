@@ -2,7 +2,7 @@
 
 The data and code repository of the ACL 2025 Industry Track paper [Judging the Judges: Can Large Vision-Language Models Fairly Evaluate Chart Comprehension and Reasoning?](https://aclanthology.org/2025.acl-industry.83/). 
 
-Chart images can be downloaded from [here](https://drive.google.com/drive/folders/10HkZmjkTojIauKUb5B7BuEDj_cVS5_fc?usp=sharing)
+Chart images can be downloaded from [here](https://drive.google.com/drive/folders/10HkZmjkTojIauKUb5B7BuEDj_cVS5_fc?usp=sharing).
 
 ## Citation
 
