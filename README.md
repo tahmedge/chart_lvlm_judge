@@ -1,6 +1,6 @@
-# Judging the Judges: Can Large Vision-Language Models Fairly Evaluate Chart Comprehension and Reasoning?
+# LVLM Judge for Chart Model Evaluation
 
-The data and code repository of the ACL 2025 Industry Track paper [Judging the Judges: Can Large Vision-Language Models Fairly Evaluate Chart Comprehension and Reasoning?](https://aclanthology.org/2025.acl-industry.83/). 
+The data and code repository of the ACL 2025 Industry Track paper [Judging the Judges: Can Large Vision-Language Models Fairly Evaluate Chart Comprehension and Reasoning?](https://aclanthology.org/2025.acl-industry.83/) and the EMNLP 2025 Industry Track paper [Deploying Tiny LVLM Judges for Real-World Evaluation of Chart Models: Lessons Learned and Best Practices] (https://aclanthology.org/2025.emnlp-industry.134/). 
 
 Chart images can be downloaded from [here](https://drive.google.com/drive/folders/10HkZmjkTojIauKUb5B7BuEDj_cVS5_fc?usp=sharing).
 
