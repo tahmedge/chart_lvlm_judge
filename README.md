@@ -31,7 +31,9 @@ If you use the data or the code, please cite:
     pages = "1203--1216",
     ISBN = "979-8-89176-288-6",
 }
+```
 
+```bibtex
 @inproceedings{laskar-etal-2025-deploying,
     title = "Deploying Tiny {LVLM} Judges for Real-World Evaluation of Chart Models: Lessons Learned and Best Practices",
     author = "Laskar, Md Tahmid Rahman  and
