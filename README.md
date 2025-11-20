@@ -31,3 +31,31 @@ If you use the data or the code, please cite:
     pages = "1203--1216",
     ISBN = "979-8-89176-288-6",
 }
+
+@inproceedings{laskar-etal-2025-deploying,
+    title = "Deploying Tiny {LVLM} Judges for Real-World Evaluation of Chart Models: Lessons Learned and Best Practices",
+    author = "Laskar, Md Tahmid Rahman  and
+      Islam, Mohammed Saidul  and
+      Mahbub, Ridwan  and
+      Rahman, Mizanur  and
+      Bhuiyan, Amran  and
+      Jahan, Israt  and
+      Nayeem, Mir Tafseer  and
+      Joty, Shafiq  and
+      Hoque, Enamul  and
+      Huang, Jimmy",
+    editor = "Potdar, Saloni  and
+      Rojas-Barahona, Lina  and
+      Montella, Sebastien",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing: Industry Track",
+    month = nov,
+    year = "2025",
+    address = "Suzhou (China)",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.emnlp-industry.134/",
+    doi = "10.18653/v1/2025.emnlp-industry.134",
+    pages = "1906--1918",
+    ISBN = "979-8-89176-333-3",
+}
+
+
