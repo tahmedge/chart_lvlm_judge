@@ -1,8 +1,7 @@
 # LVLM Judge for Chart Model Evaluation
 
-[![ACL 2025](https://img.shields.io/badge/ACL%202025-Industry%20Track-blue)]()
-[![EMNLP 2025](https://img.shields.io/badge/EMNLP%202025-Industry%20Track-green)]()
-[![License](https://img.shields.io/badge/License-Research-orange)]()
+[![ACL 2025](https://img.shields.io/badge/ACL%202025-Industry%20Track-blue)](https://aclanthology.org/2025.acl-industry.83/)
+[![EMNLP 2025](https://img.shields.io/badge/EMNLP%202025-Industry%20Track-green)](https://aclanthology.org/2025.emnlp-industry.134/)
 
 Official repository for two papers investigating **Large Vision-Language Models (LVLMs) as judges for chart comprehension and reasoning tasks**:
 
