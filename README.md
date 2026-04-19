@@ -6,8 +6,8 @@
 
 Official repository for two papers investigating **Large Vision-Language Models (LVLMs) as judges for chart comprehension and reasoning tasks**:
 
-1. 📄 **"Judging the Judges: Can Large Vision-Language Models Fairly Evaluate Chart Comprehension and Reasoning?"** — *ACL 2025 Industry Track*
-2. 📄 **"Deploying Tiny LVLM Judges for Real-World Evaluation of Chart Models: Lessons Learned and Best Practices"** — *EMNLP 2025 Industry Track*
+1. 📄 [**Judging the Judges: Can Large Vision-Language Models Fairly Evaluate Chart Comprehension and Reasoning?**](https://aclanthology.org/2025.acl-industry.83/) — *ACL 2025 Industry Track*
+2. 📄 [**Deploying Tiny LVLM Judges for Real-World Evaluation of Chart Models: Lessons Learned and Best Practices"**](https://aclanthology.org/2025.emnlp-industry.134/) — *EMNLP 2025 Industry Track*
 
 ---
 
